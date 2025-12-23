@@ -1,2 +1,2 @@
-# python-algorithm-implementations
-A collection of different algorithms implemented using python
+# Python Algorithm Implementations
+A collection of different algorithms implemented using Python
