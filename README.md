@@ -1,6 +1,8 @@
 # Python Algorithm Implementations
 
-A collection of different algorithms and data structures implemented using Python
+A collection of different algorithms and data structures with a focus on molecular systems implemented using Python.
+
+All files are my implementation of assignments given to me through the Molecular Science and Software Engineering Master's Program at UC Berkeley.
 
 ## Makefile
 
