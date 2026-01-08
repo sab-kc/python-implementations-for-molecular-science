@@ -1,4 +1,4 @@
-# Python Algorithm Implementations
+# Python Implementations for Molecular Science Applications
 
 A collection of different algorithms and data structures with a focus on molecular systems implemented using Python.
 
